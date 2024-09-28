@@ -1,11 +1,29 @@
-# AquaFlow
+# 🎛️ PID Control Simulator
 
-## Introduction
+## 📚 Overview
+This project is a PID (Proportional-Integral-Derivative) Control Simulator developed using LabVIEW. The simulator allows users to visualize and fine-tune PID control parameters in real-time, providing a hands-on experience for understanding system dynamics and stability. Perfect for learning PID control concepts, testing controller settings, and simulating various systems.
 
-A PID controller is a type of control system used to regulate a process variable, such as temperature, pressure, or flow rate, by adjusting the input to a control element, such as a valve or pump. The PID controller is designed to maintain the desired process variable setpoint by continuously measuring the process variable and making adjustments to the control element based on the error between the setpoint and the actual process variable.
+## ✨ Features
+- **Real-time Simulation**: Adjust PID parameters (P, I, D) and observe immediate changes in system behavior.
+- **Dynamic Graphs**: Track the system's output, setpoint, and error values with real-time visualization.
+- **Adjustable Parameters**: Easily modify Proportional, Integral, and Derivative terms.
+  
+## 💻 Requirements
+- LabVIEW
+- Basic knowledge of PID control systems
 
-A liquid transducer is a device that is used to convert the pressure or force of a liquid into an electrical signal that can be measured and used to control a process. In the context of a PID controller, a liquid transducer is typically used to measure the process variable, such as the pressure or flow rate of a liquid, and provide feedback to the controller.
+## 🤝 Contributing
+If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 https://user-images.githubusercontent.com/110303643/224496151-3284eccd-16bf-44cd-9c69-27d65d0ce03c.mp4
 
-Simulating a PID controller with a liquid transducer in LabVIEW can be a complex process, but with careful planning and experimentation, you can achieve precise and robust control of liquid flow or pressure.
+## 🛠️ Installation
+   **Clone the Repository**:
+   ```bash
+     git clone https://github.com/denuwan-yasodhana/AquaFlow.git
+
+
+
+
+
+
